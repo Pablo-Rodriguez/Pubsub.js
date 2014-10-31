@@ -7,7 +7,7 @@ Example
 =========
 
 ```
-  var div = document.getElementById('myDiv);
+  var div = document.getElementById('myDiv');
   var div2 = document.getElementById('myDiv2');
 
   var subscriber = subscribe('inDiv', function(topic, data) {
